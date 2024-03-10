@@ -9,46 +9,83 @@ Anaconda - Python 3.7
 
 ## Algorithm:
 ### Step1:
-<br>
+
 
 ### Step2:
-<br>
+
 
 ### Step3:
-<br>
+
 
 ### Step4:
-<br>
+
 
 ### Step5:
-<br>
+
 
 ## Program:
 ```python
 Developed By:
 Register Number:
 i)Image Translation
+```python
+import numpy as np
+import cv2
+import matplotlib.pyplot as plt
+image = cv2.imread("flower.jpg")
+image = cv2.cvtColor(image,cv2.COLOR_BGR2RGB)
+plt.axis('off')
+plt.imshow(image)
+plt.show()
 
+```
 
 ii) Image Scaling
+```python
+import numpy as np
+import cv2
+import matplotlib.pyplot as plt
+image = cv2.imread("flower.jpg")
+image = cv2.cvtColor(image,cv2.COLOR_BGR2RGB)
+plt.axis('off')
+rows,cols,dim = image.shape
+M = np.float32([[1,0,114],[0,1,-230],[0,0,1]])
+translated_image = cv2.warpPerspective(image,M,(cols,rows))
+plt.axis('off')
+plt.imshow(translated_image)
+plt.show()
+
+```
 
 
 
 iii)Image shearing
+```python
+
+```
 
 
 
 iv)Image Reflection
+```python
+
+```
 
 
 
 
 v)Image Rotation
+```python
+
+```
 
 
 
 
 vi)Image Cropping
+```python
+
+```
 
 
 
@@ -57,46 +94,22 @@ vi)Image Cropping
 ```
 ## Output:
 ### i)Image Translation
-<br>
-<br>
-<br>
-<br>
+![image](https://github.com/23004426/IMAGE-TRANSFORMATIONS/assets/144979327/f814286c-f020-44ab-95a5-86b802983350)
 
 ### ii) Image Scaling
-<br>
-<br>
-<br>
-<br>
+![Uploading image.png…]()
 
 
 ### iii)Image shearing
-<br>
-<br>
-<br>
-<br>
 
 
 ### iv)Image Reflection
-<br>
-<br>
-<br>
-<br>
-
 
 
 ### v)Image Rotation
-<br>
-<br>
-<br>
-<br>
-
 
 
 ### vi)Image Cropping
-<br>
-<br>
-<br>
-<br>
 
 
 
