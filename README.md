@@ -159,26 +159,26 @@ plt.show()
 
 
 ```
-## Output:
+### Output:
 ### i)Image Translation
-![image](https://github.com/23004426/IMAGE-TRANSFORMATIONS/assets/144979327/f66062cb-387f-45e5-8669-894574d38060)
+![image](https://github.com/23004426/IMAGE-TRANSFORMATIONS/assets/144979327/c4407a66-df2a-4fbb-b4af-2c15ca807200)
 
 ### ii) Image Scaling
-![image](https://github.com/23004426/IMAGE-TRANSFORMATIONS/assets/144979327/5bbcbad6-fe2d-4da4-b93f-7924491db267)
+![image](https://github.com/23004426/IMAGE-TRANSFORMATIONS/assets/144979327/aed3ba96-b02c-4348-b85d-4a2ed77b193b)
 
 ### iii)Image shearing
-![image](https://github.com/23004426/IMAGE-TRANSFORMATIONS/assets/144979327/8e4c831f-76fd-49be-b097-62fdd741efac)
+![image](https://github.com/23004426/IMAGE-TRANSFORMATIONS/assets/144979327/dba17990-79b6-44d5-98ab-40e85040b14a)
 
 ### iv)Image Reflection
-![image](https://github.com/23004426/IMAGE-TRANSFORMATIONS/assets/144979327/21307279-64c3-4f28-bc8f-8ea21a28aad4)
+![image](https://github.com/23004426/IMAGE-TRANSFORMATIONS/assets/144979327/a52dbcf1-9589-4a76-9b39-d15726f72169)
 
 ### v)Image Rotation
-![image](https://github.com/23004426/IMAGE-TRANSFORMATIONS/assets/144979327/1693add9-f36e-4180-b61b-460154684df9)
+![image](https://github.com/23004426/IMAGE-TRANSFORMATIONS/assets/144979327/74165cbe-a6a3-47a1-b05e-0700fcc571e9)
 
 ### vi)Image Cropping
-![image](https://github.com/23004426/IMAGE-TRANSFORMATIONS/assets/144979327/69678e99-d7cd-40a3-ab04-0b077be8a4a0)
+![image](https://github.com/23004426/IMAGE-TRANSFORMATIONS/assets/144979327/cec4809e-7c30-4900-92c0-475e8fb31d2d)
 
 
-## Result: 
+### Result: 
 
 Thus the different image transformations such as Translation, Scaling, Shearing, Reflection, Rotation and Cropping are done using OpenCV and python programming.
