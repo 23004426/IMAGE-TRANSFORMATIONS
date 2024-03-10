@@ -38,7 +38,7 @@ Crop the image to remove unwanted areas from an image
 ### Step10:
 Use cv2.imshow to show the image
 ## Program:
-```
+
 Developed By: Tirupathi Jayadeep
 Register Number: 212223240169
 i)Image Translation
@@ -158,24 +158,24 @@ plt.show()
 
 
 
-```
+
 ### Output:
-### i)Image Translation
+## i)Image Translation
 ![image](https://github.com/23004426/IMAGE-TRANSFORMATIONS/assets/144979327/c4407a66-df2a-4fbb-b4af-2c15ca807200)
 
-### ii) Image Scaling
+## ii) Image Scaling
 ![image](https://github.com/23004426/IMAGE-TRANSFORMATIONS/assets/144979327/aed3ba96-b02c-4348-b85d-4a2ed77b193b)
 
-### iii)Image shearing
+## iii)Image shearing
 ![image](https://github.com/23004426/IMAGE-TRANSFORMATIONS/assets/144979327/dba17990-79b6-44d5-98ab-40e85040b14a)
 
-### iv)Image Reflection
+## iv)Image Reflection
 ![image](https://github.com/23004426/IMAGE-TRANSFORMATIONS/assets/144979327/a52dbcf1-9589-4a76-9b39-d15726f72169)
 
-### v)Image Rotation
+## v)Image Rotation
 ![image](https://github.com/23004426/IMAGE-TRANSFORMATIONS/assets/144979327/74165cbe-a6a3-47a1-b05e-0700fcc571e9)
 
-### vi)Image Cropping
+## vi)Image Cropping
 ![image](https://github.com/23004426/IMAGE-TRANSFORMATIONS/assets/144979327/cec4809e-7c30-4900-92c0-475e8fb31d2d)
 
 
